@@ -568,7 +568,7 @@ The project also provided exposure to how data-hiding techniques can potentially
 
 # 👨‍💻 Author
 
-**Ramakrishna (Ramu)**
+**Ramakrishna Lavu**
 
 B.Tech Computer Science Engineering
 
